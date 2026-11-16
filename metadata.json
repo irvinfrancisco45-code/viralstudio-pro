@@ -1,0 +1,8 @@
+{
+  "name": "ViralStudio Pro",
+  "description": "Estudio creativo profesional para diseñar memes de redes sociales, noticias de última hora y simuladores de chats realistas con más de 2,200 plantillas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
